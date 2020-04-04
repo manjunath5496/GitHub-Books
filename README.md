@@ -22,5 +22,19 @@
 	
  <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(21).pdf" style="text-decoration:none;">Professional Git</a></li>
 	
+<li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(22).pdf" style="text-decoration:none;">Getting Good With Git</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(23).pdf" style="text-decoration:none;">Git Best Practices Guide</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(24).pdf" style="text-decoration:none;">Git
+Internals</a></li>	
+	
+ <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(25).pdf" style="text-decoration:none;">Mastering Git</a></li>
+	
+	
+	
+	
+	
+	
+	
+	
 	
 </ul>
