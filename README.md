@@ -108,9 +108,52 @@
 </table>
 </br>
 
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Acquisition_by_Microsoft"><span class="toctext">Acquisition by Microsoft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Company_affairs"><span class="toctext">Company affairs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Organizational_structure"><span class="toctext">Organizational structure</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Finance"><span class="toctext">Finance</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Mascot"><span class="toctext">Mascot</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Services"><span class="toctext">Services</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#GitHub"><span class="toctext">GitHub</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Scope"><span class="toctext">Scope</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Licensing_of_repositories"><span class="toctext">Licensing of repositories</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#GitHub_Enterprise"><span class="toctext">GitHub Enterprise</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#GitHub_Pages"><span class="toctext">GitHub Pages</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Gist"><span class="toctext">Gist</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Education_program"><span class="toctext">Education program</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#GitHub_Marketplace_service"><span class="toctext">GitHub Marketplace service</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#GitHub_Community_Forum"><span class="toctext">GitHub Community Forum</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#GitHub_Sponsors"><span class="toctext">GitHub Sponsors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Controversies"><span class="toctext">Controversies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Harassment_allegations"><span class="toctext">Harassment allegations</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Sanctions"><span class="toctext">Sanctions</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Censorship"><span class="toctext">Censorship</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#ICE_Contract"><span class="toctext">ICE Contract</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Developed_projects"><span class="toctext">Developed projects</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Prominent_users"><span class="toctext">Prominent users</span></a></li>
+</ul>
 
-
-
+</br>
 
 
 
