@@ -7,7 +7,7 @@
 <table class="infobox vcard">
 <tbody>
 <tr>
-<td colspan="2"><a class="image" href="GitHub_logo.png"><img src="GitHub_logo.png" srcset="GitHub_logo.png" alt="Font Awesome 5 brands github.svg" width="54" height="56" data-file-width="512" data-file-height="529" /></a>&nbsp;<a class="image" href="https://en.wikipedia.org/wiki/File:GitHub_logo_2013_padded.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/GitHub_logo_2013_padded.svg/128px-GitHub_logo_2013_padded.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/GitHub_logo_2013_padded.svg/192px-GitHub_logo_2013_padded.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/GitHub_logo_2013_padded.svg/256px-GitHub_logo_2013_padded.svg.png 2x" alt="GitHub logo 2013 padded.svg" width="128" height="38" data-file-width="620" data-file-height="182" /></a></td>
+<td colspan="2"><a class="image" href="GitHub_logo.png"><img src="2.png" srcset="2.png" alt="Font Awesome 5 brands github.svg" width="54" height="56" data-file-width="512" data-file-height="529" /></a>&nbsp;<a class="image" href="GitHub_logo.png"><img src="GitHub_logo.png" srcset="GitHub_logo.png" alt="GitHub logo 2013 padded.svg" width="128" height="38" data-file-width="620" data-file-height="182" /></a></td>
 </tr>
 <tr>
 <th scope="row"><a class="mw-redirect" title="Types of business entity" href="https://en.wikipedia.org/wiki/Types_of_business_entity">Type of business</a></th>
