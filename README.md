@@ -374,9 +374,15 @@ Internals</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(25).pdf" style="text-decoration:none;">Mastering Git</a></li>
 	
 	
+ <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(26).pdf" style="text-decoration:none;">Git Cheat Sheet </a></li>
 	
+<li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(27).pdf" style="text-decoration:none;">Using GitHub for a Shared LATEX Writing Project</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(28).pdf" style="text-decoration:none;">The Emergence of GitHub as a Collaborative Platform for Education</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(29).pdf" style="text-decoration:none;">A quick intro to Git and GitHub</a></li>	
 	
+ <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(30).pdf" style="text-decoration:none;">GIT and GITHUB: Basics of Distributed Version Control</a></li>
 	
+ <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/git(31).pdf" style="text-decoration:none;">A brief introduction to git and GitHub</a></li>
 	
 	
 	
